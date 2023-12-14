@@ -1,3 +1,6 @@
-# Hangman
+# Python Games
 
-This is a game that I created in my CS65 class during my freshman year with Professor Meredith Moore
+These are a few games that created for projects/assignments for my CS65 (Intro to Computer Science I) class in my sophomore year
+
+* Hangman: This is a simple game of hangman that is played in the shell
+* Shut the box
