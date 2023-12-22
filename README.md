@@ -2,5 +2,5 @@
 
 These are a few games that created for projects/assignments for my CS65 (Intro to Computer Science I) class in my sophomore year
 
-* Hangman: This is a simple game of hangman that is played in the shell
+* Hangman: You may need to open the specific folder to ensure that all the directories are correct
 * Shut the box
